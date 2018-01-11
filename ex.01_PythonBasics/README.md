@@ -1,2 +1,2 @@
-# Py_ML_ex.01
+# PyML_ex.01
 Python Basics
