@@ -1,2 +1,2 @@
-# Py_ML_ex.03
-Sampling, Simulation
+# Sampling, Simulation
+PyML_ex.03
